@@ -1,0 +1,2 @@
+# BVAMFPN
+BVAMFPN: multi-scale feature fusion for rotated object detection in remote sensing based on  biological visual attention mechanism
