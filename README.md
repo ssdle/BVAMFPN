@@ -3,5 +3,5 @@ BVAMFPN: multi-scale feature fusion for rotated object detection in remote sensi
 
 The structure of Aggregated Attention can be found in mmrotate-1.x/mmrotate/models/necks/attention_cuda.py
 
-The structure of FPNformer can be found in mmrotate-1.x/mmrotate/models/necks/attention_cuda.py
+The structure of FPNformer can be found in mmrotate-1.x/mmrotate/models/necks/fpnformer_retinanet.py
 
