@@ -8,4 +8,5 @@ The structure of FPNformer can be found in mmrotate-1.x/mmrotate/models/necks/fp
 
 # Aggregated Attention Architecture Diagram
 
-<img width="1655" height="625" alt="9861ea6cae467ca5c530e94165d65b2" src="https://github.com/user-attachments/assets/a7d82994-9480-4452-a4d4-1fd0ef43fbc5" />
+<img width="926" height="556" alt="1753542369082" src="https://github.com/user-attachments/assets/05f1c793-fed8-41b1-953a-87a5a5425933" />
+
