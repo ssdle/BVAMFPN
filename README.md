@@ -6,7 +6,7 @@ The structure of Aggregated Attention can be found in mmrotate-1.x/mmrotate/mode
 
 The structure of FPNformer can be found in mmrotate-1.x/mmrotate/models/necks/fpnformer_retinanet.py
 
-The structure of BVANFPN can be found in mmrotate-1.x/mmrotate/models/necks/BVAMFPN.py
+The structure of BVAMFPN can be found in mmrotate-1.x/mmrotate/models/necks/BVAMFPN.py
 
 # Aggregated Attention Architecture Diagram
 
